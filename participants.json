@@ -49,8 +49,20 @@
     "LongName": "Date at session 7 acquisition of Standardized tests data",
     "Description": "Date for ST at ses-7"
   },
-	"ses-9_date_ST": {
+    "ses-9_date_ST": {
     "LongName": "Date at session 9 acquisition of Standardized tests data",
     "Description": "Date for ST at ses-9"
-  }
+  },
+    "ses-5_grade":{
+    "LongName":"Grade level at session 5 acquisition of Developmental Survey data",
+    "Description":"Grade at ses-5"
+  },
+    "ses-7_grade":{
+    "LongName":"Grade level at session 7 acquisition of Developmental Survey data",
+    "Description":"Grade at ses-7"
+  },
+    "ses-9_grade":{
+    "LongName":"Grade level at session 9 acquisition of Developmental Survey data",
+    "Description":"Grade at ses-9"
+}
 }
