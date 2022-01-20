@@ -1,0 +1,120 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Clinical Evaluation of Language Fundamentals (CELF-5)",
+    "TermURL": "https://www.pearsonclinical.com/language/products/100000705/clinical-evaluation-of-language-fundamentals-fifth-edition-celf-5.html#tab-details",
+    "Citation": "Wiig, E. H., Semel, E., Secord, W. A. (2013). Clinical Evaluation of Language Fundamentals (CELF-5). Bloomington, MN: PsychCorp."
+  },
+    "CELF_SC_Raw": {
+    "LongName": "CELF-5 Sentence Comprehension Raw Score",
+    "Description": "Sentence comprehension subtest raw score"
+  },
+    "CELF_SC_ScS": {
+    "LongName": "CELF-5 Sentence Comprehension Scaled Score",
+    "Description": "Sentence comprehension subtest scaled score"
+  },
+    "CELF_LC_Raw": {
+    "LongName": "CELF-5 Linguistic Concepts Raw Score",
+    "Description": "Linguistic concepts subtest raw score"
+  },
+  "CELF_LC_ScS": {
+    "LongName": "CELF-5 Linguistic Concepts Scaled Score",
+    "Description": "Linguistic concepts subtest scaled score"  
+  },
+    "CELF_WS_Raw": {
+    "LongName": "CELF-5 Word Structure Raw Score",
+    "Description": "Word structure subtest raw score"
+  },
+  "CELF_WS_ScS": {
+    "LongName": "CELF-5 Word Structure Scaled Score",
+    "Description": "Word strcuture subtest scaled score"    
+  },
+    "CELF_WC_Raw": {
+    "LongName": "CELF-5 Word Classes Raw Score",
+    "Description": "Word classes subtest raw score"
+  },
+    "CELF_WC_ScS": {
+    "LongName": "CELF-5 Word Classes Scaled Score",
+    "Description": "Word classes subtest scaled score"  
+  },
+    "CELF_FD_Raw": {
+    "LongName": "CELF-5 Following Directions Raw Score",
+    "Description": "Following directions subtest raw score" 
+  },
+    "CELF_FD_ScS": {
+    "LongName": "CELF_5 Following Directions Scaled Score",
+    "Description": "Following directions subtest scaled score"
+  }, 
+    "CELF_FS_Raw": {
+    "LongName": "CELF-5 Formulated Sentences Raw Score",
+    "Description": "Formulated sentences subtest raw score" 
+  },
+    "CELF_FS_ScS": {
+    "LongName": "CELF-5 Formulated Sentences Scaled Score",
+    "Description": "Formulated sentences subtest scaled score"  
+  },
+
+    "CELF_RS_Raw": {
+    "LongName": "CELF-5 Recalling Sentences Raw Score",
+    "Description": "Recalling sentences subtest raw score" 
+  },
+    "CELF_RS_ScS": {
+    "LongName": "CELF-5 Recalling Sentences Scaled Score",
+    "Description": "Recalling sentences subtest scaled score"  
+  },    
+    "CELF_USP_Raw": {
+    "LongName": "CELF-5 Understanding Spoken Paragraphs Raw Score",
+    "Description": "Understanding spoken paragraphs subtest raw score"
+  },
+    "CELF_USP_ScS": {
+    "LongName": "CELF-5 Understanding Spoken Paragraphs Scaled Score",
+    "Description": "Understanding spoken paragraphs subtest scaled score"
+  },
+    "CELF_WD_Raw": {
+    "LongName": "CELF-5 Word Definitions Raw Score",
+    "Description": "Word definitions subtest raw score"
+  },
+    "CELF_WD_ScS": {
+    "LongName": "CELF-5 Word Definitions Scaled Score",
+    "Description": "Word definitions subtest scaled score"  
+  },
+    "CELF_SA_Raw": {
+    "LongName": "CELF-5 Sentence Assembly Raw Score",
+    "Description": "Sentence assembly subtest raw score"
+  },
+    "CELF_SA_ScS": {
+    "LongName": "CELF-5 Sentence Assembly Scaled Score",
+    "Description": "Sentence assembly subtest scaled score"  
+  },
+    "CELF_SR_Raw": {
+    "LongName": "CELF-5 Semantic Relationships Raw Score",
+    "Description": "Semantic relationships subtest raw score"
+  },
+    "CELF_SR_ScS": {
+    "LongName": "CELF-5 Semantic Relationships Scaled Score",
+    "Description": "Semantic relationships subtest scaled score"  
+  },
+    "CELF_CLS_StS": {
+    "LongName": "CELF-5 Core Language Score Standard Score",
+    "Description": "Core language standard score"
+  },
+    "CELF_RLI_StS": {
+    "LongName": "CELF-5 Receptive Language Index Standard Score",
+    "Description": "Receptive language index standard score"
+  },
+    "CELF_ELI_StS": {
+    "LongName": "CELF-5 Expressive Language Index Standard Score",
+    "Description": "Expressive language standard score"
+  },
+    "CELF_LCI_StS": {
+    "LongName": "CELF-5 Language Content Index Standard Score",
+    "Description": "Language content index standard score"
+  },
+    "CELF_LSI_StS": {
+    "LongName": "CELF-5 Language Structure Index Standard Score",
+    "Description": "Language structure index standard score"  
+  },
+    "CELF_LMI_StS": {
+    "LongName": "CELF-5 Language Memory Index Standard Score",
+    "Description": "Language memory index standard score"  
+  }
+}
