@@ -1,0 +1,297 @@
+{
+  "MeasurementToolMetadata": {
+  "LongName": "Parent Knowledge of Child Language Development",
+    "Description": "Questions about parents' knowledge of child language development. The survey is given to parents prior to first study visit since a child is 7 years old",
+    "Citation": "Table 5 from: Suskind, D., et al.(2016). A parent-directed language intervention for children of low socioeconomic status: A randomized controlled pilot study. Journal of Child Language, 43(2), 366-406. doi: 10.1017/S0305000915000033"
+  },
+  "how_children_learn_to_talk_1": {
+    "Description": "Using baby-talk (i.e. talking in a sing-song voice) helps babies learn how to talk",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"
+    }
+  },
+  "how_children_learn_to_talk_2": {
+    "Description": "Children learn fewer words when adults talk with a warm tone",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"
+    }
+  },
+  "how_children_learn_to_talk_3": {
+    "Description": "Babies should be able to see your face when you talk to them",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"
+    }  
+  },
+  "how_children_learn_to_talk_4": {
+    "Description": "By the age of 3, children answer questions just as quickly as adults",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"
+    }
+  },
+  "how_children_learn_to_talk_5": {
+    "Description": "Parents should not talk back when their toddlers use 'baby talk' (like when they say 'ba-ba' instead of 'teddy bear')",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"    
+    }  
+  },
+  "how_children_learn_to_talk_6": {
+    "Description": "Pointing to things is one way that babies learn how to talk",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"  
+    }  
+  },
+  "how_children_learn_to_talk_7": {
+    "Description": "Adults cannot have conversations with babies who can't yet talk",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"   
+    }  
+  },
+  "how_children_learn_to_talk_8": {
+    "Description": "Children learn fewer words when they don't pay attention to what you're saying",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"   
+    }  
+  },
+  "how_children_learn_to_talk_9": {
+    "Description": "Parents need to know a lot of big words to teach children how to talk",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"          
+    }    
+  },
+  "reading_to_children_1": {
+    "Description": "You cannot teach children anything new by reading them the same book over and over",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"    
+    }
+  },
+  "reading_to_children_2": {
+    "Description": "Parents who have trouble reading can help their children learn how to read books",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"   
+    }
+  },
+  "reading_to_children_3": {
+    "Description": "Some books should be kept where babies can reach them",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"   
+    }
+  },
+  "reading_to_children_4": {
+    "Description": "When reading with toddlers, you should always read all of the words on one page before moving on to the next page",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"     
+    }
+  },
+  "reading_to_children_5": {
+    "Description": "2-year-olds should do their best to listen quietly when you read to them",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"   
+    }
+  },
+  "reading_to_children_6": {
+    "Description": "Children can learn from looking at books by themselves before they know how to read",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"
+    }
+  },
+  "children_learning_math_1": {
+    "Description": "Saying numbers and counting are the only ways you can help toddlers get ready to learn math in school",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"  
+    }
+  },
+  "children_learning_math_2": {
+    "Description": "Toddlers need to learn how to count before they can understand math",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"  
+    }
+  },
+  "children_learning_math_3": {
+    "Description": "Talking about the difference between tall and short teaches children about math",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"   
+    }
+  },
+  "children_learning_math_4": {
+    "Description": "It's best for children to wait until they are old enough for school to learn about math",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"
+    }
+  },
+  "children_learning_math_5": {
+    "Description": "Children are learning about math when they learn the names of different shapes (like triangles and squares)",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"  
+    }
+  },
+  "children_starting_school_1": {
+    "Description": "Children who know fewer words when they start school will probably do worse in third grade than their classmates who know more words",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"  
+    }
+  },
+  "children_starting_school_2": {
+    "Description": "Talking to children cannot make them smarter",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"  
+    }
+  },
+  "children_starting_school_3": {
+    "Description": "How many words 3-year-olds know can predict how well they might do in kindergarten",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"   
+    }
+  },
+  "children_starting_school_4": {
+    "Description": "Children should be told what to do instead of given choices",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"        
+    }
+  },
+  "children_starting_school_5": {
+    "Description": "How many words 3-year-olds know cannot predict how many new words they will learn during their lifetime",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"     
+    }
+  },
+  "children_starting_school_6": {
+    "Description": "It's the school's responsibility to make sure children learn how to read and do math",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"     
+    }
+  },
+  "children_watching_television_1": {
+    "Description": "Watching educational TV is good for children of all ages",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"  
+    }
+  },
+  "children_watching_television_2": {
+    "Description": "Having conversations with adults while watching television can help 3-year-olds learn new words",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement" 
+    }
+  },
+  "children_watching_television_3": {
+    "Description": "The more television children under 2 watch by themselves the more words they learn",
+    "Levels": {
+      "1": "Strongly disagree with the statement",
+      "2": "Somewhat disagree with the statement",
+      "3": "Unsure about the statement",
+      "4": "Somewhat agree with the statement",
+      "5": "Strongly agree with the statement"  
+    }
+  }
+}
