@@ -1,0 +1,171 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Conners Early Childhood (EC)",
+    "TermURL": "https://www.pearsonclinical.co.uk/Psychology/ChildMentalHealth/ChildADDADHDBehaviour/ConnersEarlyChildhood(ConnersEC)/ConnersEarlyChildhood(ConnersEC).aspx",
+    "Citation": "Conners, C. K. (2009). Conners Early Childhood (Conners EC)."
+  },
+  "RespStyleAnalys_Positive": {
+    "LongName": "Response Style Analysis: Positive Impression",
+    "Description": "Response Style Analysis: Positive Impression raw score"
+  },
+  "RespStyleAnalys_Negative": {
+    "LongName": "Response Style Analysis: Negative Impression",
+    "Description": "Response Style Analysis: Negative Impression raw score"
+  },
+  "RespStyleAnalys_Inconsistency": {
+    "LongName": "Response Style Analysis: Inconsistency Index",
+    "Description": "Response Style Analysis: Inconsistency Index raw score"
+  },
+  "CONNERS_Inattention_Raw": {
+    "LongName": "CONNERS Inattention/Hyperactivity Raw Score",
+    "Description": "Behavior Scales Inattention/Hyperactivity raw score"
+  },
+  "CONNERS_DefiantAggr_Raw": {
+    "LongName": "CONNERS Defiant/Aggressive Behaviors (D/A): Total  Raw Score",
+    "Description": "Behavior Scales Defiant/Aggressive Behaviors (D/A): Total raw score"
+  },
+  "CONNERS_DefianceTemper_Raw": {
+    "LongName": "CONNERS Defiance/Temper (D/A subscale)  Raw Score",
+    "Description": "Behavior Scales Defiance/Temper (D/A subscale)  raw score"
+  },
+  "CONNERS_Aggression_Raw": {
+    "LongName": "CONNERS Aggression (D/A subscale) Raw Score",
+    "Description": "Behavior Scales Aggression (D/A subscale) raw score"
+  },
+  "CONNERS_SFABTotal_Raw": {
+    "LongName": "CONNERS Social Functioning/Atypical Behaviors (SF/AB): Total Raw Score",
+    "Description": "Behavior Scales Social Functioning/Atypical Behaviors (SF/AB): Total raw score"
+   },
+  "CONNERS_SFABSubscale_Raw": {
+    "LongName": "CONNERS Social Functioning (SF/AB subscale) Raw Score",
+    "Description": "Behavior Scales Social Functioning (SF/AB subscale) raw score"
+   },
+  "CONNERS_AtypicalBehav_Raw": {
+    "LongName": "CONNERS Atypical Behaviors (SF/AB subscale) Raw Score",
+    "Description": "Behavior Scales Atypical Behaviors (SF/AB subscale) raw score"
+   },
+  "CONNERS_Anxiety_Raw": {
+    "LongName": "CONNERS Anxiety Raw Score",
+    "Description": "Behavior Scales Anxiety raw score"
+   },
+  "CONNERS_MoodAffect_Raw": {
+    "LongName": "CONNERS Mood and Affect Raw Score",
+    "Description": "Behavior Scales Mood and Affect raw score"
+   },
+  "CONNERS_PhysicalSympt_Raw": {
+    "LongName": "CONNERS Physical Symptoms (PS): Total  Raw Score",
+    "Description": "Behavior Scales Physical Symptoms (PS): Total  raw score"
+   },
+  "CONNERS_SleepProbs_Raw": {
+    "LongName": "CONNERS Sleep Problems (PS subscale) Raw Score",
+    "Description": "Behavior Scales Sleep Problems (PS subscale) raw score"
+   },
+  "CONNERS_Inattention_T": {
+    "LongName": "CONNERS Inattention/Hyperactivity T-Score",
+    "Description": "Behavior Scales Inattention/Hyperactivity T-Score"
+   },
+  "CONNERS_DefiantAggr_T": {
+    "LongName": "CONNERS Defiant/Aggressive Behaviors (D/A): Total  T-score",
+    "Description": "Behavior Scales Defiant/Aggressive Behaviors (D/A): Total T-score"
+    },
+  "CONNERS_DefianceTemper_T": {
+    "LongName": "CONNERS Defiance/Temper (D/A subscale)  T-score",
+    "Description": "Behavior Scales Defiance/Temper (D/A subscale)  T-score"
+    },
+  "CONNERS_Aggression_T": {
+    "LongName": "CONNERS Aggression (D/A subscale) T-score",
+    "Description": "Behavior Scales Aggression (D/A subscale) T-score"
+     },
+  "CONNERS_SFABTotal_T": {
+    "LongName": "CONNERS Social Functioning/Atypical Behaviors (SF/AB): Total T-score",
+    "Description": "Behavior Scales Social Functioning/Atypical Behaviors (SF/AB): Total T-score"
+     },
+  "CONNERS_SFABSubscale_T": {
+    "LongName": "CONNERS Social Functioning (SF/AB subscale) T-score",
+    "Description": "Behavior Scales Social Functioning (SF/AB subscale) T-score"
+     },
+  "CONNERS_AtypicalBehav_T": {
+    "LongName": "CONNERS Atypical Behaviors (SF/AB subscale) T-score",
+    "Description": "Behavior Scales Atypical Behaviors (SF/AB subscale) T-score"
+    },
+  "CONNERS_Anxiety_T": {
+    "LongName": "CONNERS Anxiety T-score",
+    "Description": "Behavior Scales Aniety T-score"
+     },
+  "CONNERS_MoodAffect_T": {
+    "LongName": "CONNERS Mood and Affect T-score",
+    "Description": "Behavior Scales Mood and Affect T-score"
+     },
+  "CONNERS_PhysicalSympt_T": {
+    "LongName": "CONNERS Physical Symptoms (PS): Total  T-score",
+    "Description": "Behavior Scales Physical Symptoms (PS): Total  T-score"
+     },
+  "CONNERS_SleepProbs_T": {
+    "LongName": "CONNERS Sleep Problems (PS subscale) T-score",
+    "Description": "Behavior Scales Sleep Problems (PS subscale) T-score"
+     },
+  "CONNERS_GI_RI_Raw": {
+    "LongName": "Conners Early Childhood GI: Restless-Impulsive Raw Score",
+    "Description": "Conners Early Childhood Global Index: Restless-Impulsive raw score"
+    },
+  "CONNERS_GI_EL_Raw": {
+    "LongName": "Conners Early Childhood GI: Emotional Lability  Raw Score",
+    "Description": "Conners Early Childhood Global Index: Emotional Lability raw score"
+    },
+  "CONNERS_GI_Total_Raw": {
+    "LongName": "Conners Early Childhood GI: Total Raw Score",
+    "Description": "Conners Early Childhood Global Index: Total raw score"
+       },
+  "CONNERS_GI_RI_T": {
+    "LongName": "Conners Early Childhood GI: Restless-Impulsive  T-score",
+    "Description": "Conners Early Childhood Global Index: Restless-Impulsive  T-score"
+     },
+  "CONNERS_GI_EL_T": {
+    "LongName": "Conners Early Childhood GI: Emotional Lability  T-score",
+    "Description": "Conners Early Childhood Global Index: Emotional Lability  T-score"
+    },
+  "CONNERS_GI_Total_T": {
+    "LongName": "Conners Early Childhood GI: Total  T-score",
+    "Description": "Conners Early Childhood Global Index: Total  T-score"
+      },
+  "CONNERS_Adaptive_Raw": {
+    "LongName": "CONNERS Adaptive Raw Score",
+    "Description": "Developmental Milestone Scales: Adaptive raw score"
+     },
+  "CONNERS_Communication_Raw": {
+    "LongName": "CONNERS Communication Raw Score",
+    "Description": "Developmental Milestone Scales: Communication raw score"
+     },
+  "CONNERS_Motor_Raw": {
+    "LongName": "CONNERS Motor Skills Raw Score",
+    "Description": "Developmental Milestone Scales: Motor skills raw score"
+     },
+  "CONNERS_Play_Raw": {
+    "LongName": "CONNERS Play Raw Score",
+    "Description": "Developmental Milestone Scales: Play raw score"
+     },
+  "CONNERS_PreAcademicCog_Raw": {
+    "LongName": "CONNERS Pre-Academic/Cognitive Raw Score",
+    "Description": "Developmental Milestone Scales: Pre-Academic/Cognitive raw score"
+       },
+  "CONNERS_Adaptive_T": {
+    "LongName": "CONNERS Adaptive T-score",
+    "Description": "Developmental Milestone Scales: Adaptive T-score"
+     },
+  "CONNERS_Communication_T": {
+    "LongName": "CONNERS Communication T-score",
+    "Description": "Developmental Milestone Scales: Communication T-score"
+     },
+  "CONNERS_Motor_T": {
+    "LongName": "CONNERS Motor Skills T-score",
+    "Description": "Developmental Milestone Scales: Motor skills T-score"
+     },
+  "CONNERS_Play_T": {
+    "LongName": "CONNERS Play T-score",
+    "Description": "Developmental Milestone Scales: Play T-score"
+     },
+  "CONNERS_PreAcademicCog_T": {
+    "LongName": "CONNERS Pre-Academic/Cognitive T-score",
+    "Description": "Developmental Milestone Scales: Pre-Academic/Cognitive T-score"
+  }
+}
