@@ -1,0 +1,59 @@
+{
+  "MeasurementToolMetadata": {
+    "LongName": "Exclusionary Survey: Language and ADHD-Related Questions",
+    "Description": "Parent survey about their child's foreign language usage and ADHD diagnosis status"
+ },
+  "other_languages_spoken": {
+    "Description": "Does your child speak any language other than English?",
+    "Levels": {
+      "1": "Yes",
+      "2": "No"
+    }
+  },
+  "learning_English": {
+    "Description": "Did your child learn English before age 3?",
+    "Levels": {
+      "1": "Yes",
+      "2": "No"
+    }
+  },
+  "other_language_at_home": {
+    "Description": "Are there any other languages spoken in the home?",
+    "Levels": {
+      "1": "Yes",
+      "2": "No"
+    }  
+  },
+  "other_language_at_home_fill-in": {
+    "Description": "What language or languages are spoken at home?"
+  },
+  "time_other_language_spoken_to_child": {
+    "Description": "What percentage of time is a language besides English spoken to your child?",
+    "Levels": {
+      "1": "0% (only English is spoken)",
+      "2": "20%",
+      "3": "40%",
+      "4": "60%",
+      "5": "80%",
+      "6": "100% (English is rarely or never spoken)"
+    }   
+  },
+  "time_other_language_spoken_by_child": {
+    "Description": "What percentage of time does your child speak a language besides English?",
+    "Levels": {
+      "1": "0% (only English is spoken)",
+      "2": "20%",
+      "3": "40%",
+      "4": "60%",
+      "5": "80%",
+      "6": "100% (English is rarely or never spoken)"
+    }
+  },
+  "ADHD_diagnosis_status": {
+    "Description": "Is your child diagnosed with ADD/ADHD (Attention Defecit Hyperactivity Disorder)?",
+    "Levels": {
+      "1": "Yes",
+      "2": "No"
+    }      
+  }    
+}
