@@ -1,0 +1,211 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Conners Comprehensive Behavior Rating Scales (CBRS)",
+    "TermURL": "https://www.pearsonclinical.co.uk/Psychology/ChildMentalHealth/ChildADDADHDBehaviour/ConnersComprehensiveBehaviorRatingScales(ConnersCBRS)/ConnersComprehensiveBehaviorRatingScales(ConnersCBRS).aspx",
+    "Citation": "Conners, K. C. (2013). Comprehensive Behavior Rating Scales (CBRS). North Tonawanda, NY: Multi-Health Systems Inc."
+  },
+  "RespStyleAnalys_Positive": {
+    "LongName": "Response Style Analysis: Positive Impression",
+    "Description": "Response Style Analysis: Positive Impression raw score"
+  },
+  "RespStyleAnalys_Negative": {
+    "LongName": "Response Style Analysis: Negative Impression",
+    "Description": "Response Style Analysis: Negative Impression raw score"
+  },
+  "RespStyleAnalys_Inconsistency": {
+    "LongName": "Response Style Analysis: Inconsistency Index",
+    "Description": "Response Style Analysis: Inconsistency Index raw score"
+  },
+  "CONNERS_EmotionalDist_Raw": {
+    "LongName": "Emotional Distress (ED): Total Raw Score",
+    "Description": "Conners CBRS-P Emotional Distress (ED): Total raw score"
+  },
+  "CONNERS_UpsettingThoughts_Raw": {
+    "LongName": "Upsetting Thoughts (ED subscale) Raw Score",
+    "Description": "Conners CBRS-P Upsetting Thoughts (ED subscale) raw score" 
+  },
+  "CONNERS_Worrying_Raw": {
+    "LongName": "Worrying (ED subscale) Raw Score",
+    "Description": "Conners CBRS-P Worrying (ED subscale) raw score" 
+  },
+  "CONNERS_SocialProblems_Raw": {
+    "LongName": "Social Problems (ED subscale) Raw Score",
+    "Description": "Conners CBRS-P Social Problems (ED subscale) raw score"
+  },
+  "CONNERS_DefiantAggr_Raw": {
+    "LongName": "Defiant/Aggressive Behaviors Raw Score",
+    "Description": "Conners CBRS-P Defiant/Aggressive Behaviors raw score"
+  },
+  "CONNERS_AcademicDiff_Raw": {
+    "LongName": "Academic Difficulties (AD) Total Raw Score",
+    "Description": "Conners CBRS-P Academic Difficulties (AD) Total raw score"
+  },
+  "CONNERS_Language_Raw": {
+    "LongName": "Language (AD subscale) Raw Score",
+    "Description": "Conners CBRS-P Language (AD subscale) raw score"
+  },
+  "CONNERS_Math_Raw": {
+    "LongName": "Math (AD subscale) Raw Score",
+    "Description": "Conners CBRS-P Math (AD subscale) raw score"
+  },
+  "CONNERS_Hyperactivity_Raw": {
+    "LongName": "Hyperactivity/Impulsivity Raw Score",
+    "Description": "Conners CBRS-P Hyperactivity/Impulsivity raw score"
+  },
+  "CONNERS_SeparationFears_Raw": {
+    "LongName": "Separation Fears Raw Score",
+    "Description": "Conners CBRS-P Separation Fears raw score"
+  },
+  "CONNERS_PerfectionCompul_Raw": {
+    "LongName": "Perfectionistic and Compulsive Behaviors Raw Score",
+    "Description": "Conners CBRS-P Perfectionistic and Compulsive Behaviors raw score"
+  },
+  "CONNERS_Violence_Raw": {
+    "LongName": "Violence Potential Indicator Raw Score",
+    "Description": "Conners CBRS-P Violence Potential Indicator raw score"
+  },
+  "CONNERS_PhysicalSympt_Raw": {
+    "LongName": "Physical Symptoms Raw Score",
+    "Description": "Conners CBRS-P Physical Symptoms raw score"
+  },
+  "CONNERS_EmotionalDist_T": {
+    "LongName": "Emotional Distress (ED): Total T-score",
+    "Description": "Conners CBRS-P Emotional Distress (ED): Total T-score" 
+  },
+  "CONNERS_UpsettingThoughts_T": {
+    "LongName": "Upsetting Thoughts (ED subscale) T-score",
+    "Description": "Conners CBRS-P Upsetting Thoughts (ED subscale) T-score" 
+  },
+  "CONNERS_Worrying_T": {
+    "LongName": "Worrying (ED subscale) T-score",
+    "Description": "Conners CBRS-P Worrying (ED subscale) T-score" 
+  },
+  "CONNERS_SocialProblems_T": {
+    "LongName": "Social Problems (ED subscale) T-score",
+    "Description": "Conners CBRS-P Social Problems (ED subscale) T-score"
+  },
+  "CONNERS_DefiantAggr_T": {
+    "LongName": "Defiant/Aggressive Behaviors T-score",
+    "Description": "Conners CBRS-P Defiant/Aggressive Behaviors T-score"
+  },
+  "CONNERS_AcademicDiff_T": {
+    "LongName": "Academic Difficulties (AD) Total T-score",
+    "Description": "Conners CBRS-P Academic Difficulties (AD) Total T-score"
+  },
+  "CONNERS_Language_T": {
+    "LongName": "Language (AD subscale) T-score",
+    "Description": "Conners CBRS-P Language (AD subscale) T-score"
+  },
+  "CONNERS_Math_T": {
+    "LongName": "Math (AD subscale) T-score",
+    "Description": "Conners CBRS-P Math (AD subscale) T-score"
+  },
+  "CONNERS_Hyperactivity_T": {
+    "LongName": "Hyperactivity/Impulsivity T-score",
+    "Description": "Conners CBRS-P Hyperactivity/Impulsivity T-score"
+  },
+  "CONNERS_SeparationFears_T": {
+    "LongName": "Separation Fears T-score",
+    "Description": "Conners CBRS-P Separation Fears T-score"
+  },
+  "CONNERS_PerfectionCompul_T": {
+    "LongName": "Perfectionistic and Compulsive Behaviors T-score",
+    "Description": "Conners CBRS-P Perfectionistic and Compulsive Behaviors T-score"
+  },
+  "CONNERS_Violence_T": {
+    "LongName": "Violence Potential Indicator T-score",
+    "Description": "Conners CBRS-P Violence Potential Indicator T-score"
+  },
+  "CONNERS_PhysicalSympt_T": {
+    "LongName": "Physical Symptoms T-score",
+    "Description": "Conners CBRS-P Physical Symptoms T-score"
+  },
+  "DSM5_ADHDInatt_Raw": {
+    "LongName": "ADHD Predominantly Inattentive Presentation Raw Score",
+    "Description": "DSM-5 Symptom Scales: ADHD Predominantly Inattentive Presentation  raw score" 
+  },
+  "DSM5_ADHDHyper_Raw": {
+    "LongName": "ADHD Predominantly Hyperactive-Impulsive Presentation Raw Score",
+    "Description": "DSM-5 Symptom Scales: ADHD Predominantly Hyperactive-Impulsive Presentation raw score"
+  },
+  "DSM5_Conduct_Raw": {
+    "LongName": "Conduct Disorder Raw Score",
+    "Description": "DSM-5 Symptom Scales: Conduct Disorder raw score"
+  },
+  "DSM5_OppositionalDef_Raw": {
+    "LongName": "Oppositional Defiant Disorder Raw Score",
+    "Description": "DSM-5 Symptom Scales: Oppositional Defiant Disorder raw score"
+  },
+  "DSM5_MajorDepress_Raw": {
+    "LongName": "Major Depressive Episode Raw Score",
+    "Description": "DSM-5 Symptom Scales: Major Depressive Episode raw score"
+  },
+  "DSM5_Manic_Raw": {
+    "LongName": "Manic Episode Raw Score",
+    "Description": "DSM-5 Symptom Scales: Manic Episode raw score"
+  },
+  "DSM5_GAD_Raw": {
+    "LongName": "Generalized Anxiety Disorder Raw Score",
+    "Description": "DSM-5 Symptom Scales: Generalized Anxiety Disorder raw score"
+  },
+  "DSM5_SeparationAD_Raw": {
+    "LongName": "Separation Anxiety Disorder Raw Score",
+    "Description": "DSM-5 Symptom Scales: Separation Anxiety Disorder raw score"
+  },
+  "DSM5_SocialAD_Raw": {
+    "LongName": "Social Anxiety Disorder (Social Phobia) Raw Score",
+    "Description": "DSM-5 Symptom Scales: Social Anxiety Disorder (Social Phobia) raw score"
+  },
+  "DSM5_OCD_Raw": {
+    "LongName": "Obsessive-Compulsive Disorder Raw Score",
+    "Description": "DSM-5 Symptom Scales: Obsessive-Compulsive Disorder raw score"
+  },
+  "DSM5_ASD_Raw": {
+    "LongName": "Autism Spectrum Disorder Raw Score",
+    "Description": "DSM-5 Symptom Scales: Autism Spectrum Disorder raw score"
+  },
+  "DSM5_ADHDInatt_T": {
+    "LongName": "ADHD Predominantly Inattentive Presentation T-score",
+    "Description": "DSM-5 Symptom Scales: ADHD Predominantly Inattentive Presentation  T-score" 
+  },
+  "DSM5_ADHDHyper_T": {
+    "LongName": "ADHD Predominantly Hyperactive-Impulsive Presentation T-score",
+    "Description": "DSM-5 Symptom Scales: ADHD Predominantly Hyperactive-Impulsive Presentation T-score"
+  },
+  "DSM5_Conduct_T": {
+    "LongName": "Conduct Disorder T-score",
+    "Description": "DSM-5 Symptom Scales: Conduct Disorder T-score"
+  },
+  "DSM5_OppositionalDef_T": {
+    "LongName": "Oppositional Defiant Disorder T-score",
+    "Description": "DSM-5 Symptom Scales: Oppositional Defiant Disorder T-score"
+  },
+  "DSM5_MajorDepress_T": {
+    "LongName": "Major Depressive Episode T-score",
+    "Description": "DSM-5 Symptom Scales: Major Depressive Episode T-score"
+  },
+  "DSM5_Manic_T": {
+    "LongName": "Manic Episode T-score",
+    "Description": "DSM-5 Symptom Scales: Manic Episode T-score"
+  },
+  "DSM5_GAD_T": {
+    "LongName": "Generalized Anxiety Disorder T-score",
+    "Description": "DSM-5 Symptom Scales: Generalized Anxiety Disorder T-score"
+  },
+  "DSM5_SeparationAD_T": {
+    "LongName": "Separation Anxiety Disorder T-score",
+    "Description": "DSM-5 Symptom Scales: Separation Anxiety Disorder T-score"
+  },
+  "DSM5_SocialAD_T": {
+    "LongName": "Social Anxiety Disorder (Social Phobia) T-score",
+    "Description": "DSM-5 Symptom Scales: Social Anxiety Disorder (Social Phobia) T-score"
+  },
+  "DSM5_OCD_T": {
+    "LongName": "Obsessive-Compulsive Disorder T-score",
+    "Description": "DSM-5 Symptom Scales: Obsessive-Compulsive Disorder T-score"
+  },
+  "DSM5_ASD_T": {
+    "LongName": "Autism Spectrum Disorder T-score",
+    "Description": "DSM-5 Symptom Scales: Autism Spectrum Disorder T-score"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "MeasurementToolMetadata": {
+    "Description": "Comprehensive Test of Phonological Processing--Second Edition (CTOPP-2)",
+    "TermURL": "https://journals.sagepub.com/doi/abs/10.1177/0734282914525028",
+    "Citation": "Wagner, R. K., Torgesen, J. K., Rashotte, C. A., & N.A. Pearson (2013). Comprehensive test of phonological processing--Second Edition (CTOPP-2). Austin, TX: PRO-ED"
+  },
+    "CTOPP-2_EL_Raw": {
+    "LongName": "CTOPP-2 Elision Raw Score",
+    "Description": "Elision subtest raw score"
+  },
+    "CTOPP-2_EL_ScS": {
+    "LongName": "CTOPP-2 Elision Scaled Score",
+    "Description": "Elision subtest scaled score"  
+  },
+    "CTOPP-2_BW_Raw": {
+    "LongName": "CTOPP-2 Blending Words Raw Score",
+    "Description": "Blending words subtest raw score"
+  },
+    "CTOPP-2_BW_ScS": {
+    "LongName": "CTOPP-2 Blending Words Scaled Score",
+    "Description": "Blending words subtest scaled score"
+  },
+    "CTOPP-2_SM_Raw": {
+    "LongName": "CTOPP-2 Sound Matching Raw Score",
+    "Description": "Sound matching subtest raw score"
+  },
+    "CTOPP-2_SM_ScS": {
+    "LongName": "CTOPP-2 Sound Matching Scaled Score",
+    "Description": "Sound matching subtest scaled score"    
+  },
+    "CTOPP-2_PI_Raw": {
+    "LongName": "CTOPP-2 Phoneme Isolation Raw Score",
+    "Description": "Phoneme isolation subtest raw score"  
+  },
+    "CTOPP-2_PI_ScS": {
+    "LongName": "CTOPP-2 Phoneme Isolation Scaled Score",
+    "Description": "Phoneme isolation subtest scaled score" 
+  },
+    "CTOPP-2_MD_Raw": {
+    "LongName": "CTOPP-2 Memory for Digits Raw Score",
+    "Description": "Memory for digits subtest raw score"
+  },
+    "CTOPP-2_MD_ScS": {
+    "LongName": "CTOPP Memory for Digits Scaled Score",
+    "Description": "Memory for digits subtest scaled score" 
+  },
+    "CTOPP-2_NR_Raw": {
+    "LongName": "CTOPP-2 Nonword Repitition Raw Score",
+    "Description": "Nonword repitition subtest raw score"
+  },
+    "CTOPP-2_NR_ScS": {
+    "LongName": "CTOPP-2 Nonword Repitition Scaled Score",
+    "Description": "Nonword repitition subtest scaled score" 
+  },
+    "CTOPP-2_RD_Raw": {
+    "LongName": "CTOPP-2 Rapid Digit Naming Raw Score",
+    "Description": "Rapid digit naming subtest raw score"
+  },
+    "CTOPP-2_RD_ScS": {
+    "LongName": "CTOPP-2 Rapid Digit Naming Scaled Score",
+    "Description": "Rapid digit naming subtest scaled score"  
+  },
+    "CTOPP-2_RL_Raw": {
+    "LongName": "CTOPP-2 Rapid Letter Naming Raw Score",
+    "Description": "Rapid letter naming subtest raw score"
+  },
+    "CTOPP-2_RL_ScS": {
+    "LongName": "CTOPP-2 Rapid Letter Naming Scaled Score",
+    "Description": "Rapid letter naming subtest scaled score"
+  },
+    "CTOPP-2_RC_Raw": {
+    "LongName": "CTOPP-2 Rapid Color Naming Raw Score",
+    "Description": "Rapid color naming subtest raw score"
+  },
+    "CTOPP-2_RC_ScS": {
+    "LongName": "CTOPP-2 Rapid Color Naming Scaled Score",
+    "Description": "Rapid color naming subtest scaled score"
+  },
+    "CTOPP-2_RO_Raw": {
+    "LongName": "CTOPP-2 Rapid Object Naming Raw Score",
+    "Description": "Rapid object naming subtest raw score"
+  },
+    "CTOPP-2_RO_ScS": {
+    "LongName": "CTOPP-2 Rapid Object Naming Scaled Score",
+    "Description": "Rapid object naming subtest scaled score"  
+  },
+    "CTOPP-2_PhonAwareness_Comp": {
+    "LongName": "CTOPP-2 Phonological Awareness Composite Score",
+    "Description": "Phonological awareness composite score"  
+  },
+  "CTOPP-2_PhonMemory_Comp": {
+    "LongName": "CTOPP-2 Phonological Memory Composite Score",
+    "Description": "Phonological memory composite score"
+  },
+  "CTOPP-2_RapidSymb_Comp": {
+    "LongName": "CTOPP-2 Rapid Symbolic Naming Composite Score",
+    "Description": "Rapid symbolic naming composite score"  
+  },
+    "CTOPP-2_RapidNon-Symb_Comp": {
+    "LongName": "CTOPP-2 Rapid Non-Symbolic Naming Composite Score",
+    "Description": "Rapid non-symbolic naming composite score"      
+  }
+} 

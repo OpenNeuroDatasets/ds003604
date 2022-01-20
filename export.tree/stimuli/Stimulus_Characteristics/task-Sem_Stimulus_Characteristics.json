@@ -1,0 +1,141 @@
+{
+  "run": {
+    "LongName": "Run",
+    "Description": "Run number of Sem task"
+  },
+  "stim_file": {
+    "LongName": "Stimulus File Name",
+    "Description": "Name of presented stimulus"
+  },
+  "trial_type": {
+    "LongName": "Trial Condition",
+    "Description": "Category of trial based on stimuli characteristics",
+    "Levels": {
+      "S_H": "high semantic association",
+      "S_L": "low semantic association",
+      "S_U": "unrelated",
+      "S_C": "perceptual control"
+    }
+  },
+  "total_stim_duration": {
+    "LongName": "Total Stimulus Duration",
+    "Description": "Duration of stimulus from beginning of word_A to the end of word_B",
+    "Units": "s"
+  },
+  "stim_average_intensity": {
+    "LongName": "Stimulus Average Intensity",
+    "Description": "Average intensity of stimulus",
+    "Units": "dB"
+  },
+  "word_A": {
+    "LongName": "First word",
+    "Description": "The first word presented before the pause"
+  },
+  "word_A_duration": {
+    "LongName": "First word Duration",
+    "Description": "Duration of word_A",
+    "Units": "s"
+  },
+  "word_A_length": {
+    "LongName": "First word Length",
+    "Description": "Number of characters composing word_A"
+  },
+  "word_A_frequency": {
+    "LongName": "First word Frequency",
+    "Description": "HAL frequency of word_A in the English Lexicon Project"
+  },
+  "word_A_ortho_neighbors": {
+    "LongName": "First word Orthographic Neighbors",
+    "Description": "Number of orthographic neighbors of word_A based on the English Lexicon Project"
+  },
+  "word_A_phono_neighbors": {
+    "LongName": "First word Phonological Neighbors",
+    "Description": "Number of phonological neighbors of word_A based on the English Lexicon Project"
+  },
+  "word_A_semantic_neighbors": {
+    "LongName": "First word Semantic Neighbors",
+    "Description": "Number of semantic neighbors of word_A based on the English Lexicon Project"
+  },
+  "word_A_number_phonemes": {
+    "LongName": "First word Number of Phonemes",
+    "Description": "Number of phonemes composing word_A",
+  },
+  "word_A_number_syllables": {
+    "LongName": "First word Number of Syllables",
+    "Description": "Number of syllables composing word_A",
+  },
+  "word_A_number_morphemes": {
+    "LongName": "First word Number of Morphemes",
+    "Description": "Number of morphemes composing word_A",
+  },
+  "word_A_part_of_speech": {
+    "LongName": "First word Part of Speech",
+    "Description": "Part of speech of word_A",
+    "Levels": {
+      "JJ": "adjective",
+      "NN": "noun",
+      "RB": "adverb",
+      "VB": "verb"
+    }
+  },
+  "pause_duration": {
+    "LongName": "Pause Duration",
+    "Description": "Duration of pause between word_A and word_B",
+    "Units": "s"
+  }, 
+  "word_B": {
+    "LongName": "Second word",
+    "Description": "The second word presented after the pause"
+  },
+  "word_B_duration": {
+    "LongName": "Second word Duration",
+    "Description": "Duration of word_B",
+    "Units": "s"
+  },
+  "word_B_length": {
+    "LongName": "Second word Length",
+    "Description": "Number of characters composing word_B"
+  },
+  "word_B_frequency": {
+    "LongName": "Second word Frequency",
+    "Description": "HAL frequency of word_B in the English Lexicon Project"
+  },
+  "word_B_ortho_neighbors": {
+    "LongName": "Second word Orthographic Neighbors",
+    "Description": "Number of orthographic neighbors of word_B based on the English Lexicon Project"
+  },
+  "word_B_phono_neighbors": {
+    "LongName": "Second word Phonological Neighbors",
+    "Description": "Number of phonological neighbors of word_B based on the English Lexicon Project"
+  },
+  "word_B_semantic_neighbors": {
+    "LongName": "Second word Semantic Neighbors",
+    "Description": "Number of semantic neighbors of word_B based on the English Lexicon Project"
+  },
+  "word_B_number_phonemes": {
+    "LongName": "Second word Number of Phonemes",
+    "Description": "Number of phonemes composing word_B"
+  },
+  "word_B_number_syllables": {
+    "LongName": "Second word Number of Syllables",
+    "Description": "Number of syllables composing word_B"
+  },
+  "word_B_number_morphemes": {
+    "LongName": "Second word Number of Morphemes",
+    "Description": "Number of morphemes composing word_B"
+  },
+  "word_B_part_of_speech": {
+    "LongName": "Second word Part of Speech",
+    "Description": "Part of speech of word_B",
+    "Levels": {
+      "JJ": "adjective",
+      "NN": "noun",
+      "RB": "adverb",
+      "VB": "verb"
+    }
+  },
+  "word_A_B_association_strength": {
+    "LongName": "First and Second words Association Strength",
+    "Description": "Strength of association between word_A and word_B based on the University of South Florida Free Association Norms",
+  }
+}
