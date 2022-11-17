@@ -11,7 +11,7 @@
         "Wang, J., Wagley, N., Rice, M. L., & Booth, J. R. (2021). Semantic and syntactic specialization during auditory sentence processing in 7-8-year-old children. Cortex, 145, 169-186. https://www.sciencedirect.com/science/article/pii/S0010945221003075",
         "Wagley, N., & Booth, J. R. (2021). Neuro-cognitive development of semantic and syntactic bootstrapping in 6-to 7.5-year-old children. NeuroImage, 241, 118416. https://www.sciencedirect.com/science/article/pii/S1053811921006911",
         "Wang, J., Pines, J., Joanisse, M., & Booth, J. R. (2021). Reciprocal relations between reading skill and the neural basis of phonological awareness in 7-to 9-year-old children. NeuroImage, 236, 118083. https://www.sciencedirect.com/science/article/pii/S1053811921003608",
-        "Wang, J., Yamasaki, B. L., Weiss, Y., & Booth, J. R. (2021). Both frontal and temporal cortex exhibit phonological and semantic specialization during spoken language processing in 7\u2010to 8\u2010year\u2010old children. Human Brain Mapping, 42(11), 3534-3546. https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25450",
+        "Wang, J., Yamasaki, B. L., Weiss, Y., & Booth, J. R. (2021). Both frontal and temporal cortex exhibit phonological and semantic specialization during spoken language processing in 7‐to 8‐year‐old children. Human Brain Mapping, 42(11), 3534-3546. https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25450",
         "Yamasaki BL, McGregor K & Booth JR (2021). Early phonological neural specialization predicts later growth in word reading skills. Frontiers in Human Neuroscience, 15, 674119. https://www.frontiersin.org/articles/10.3389/fnhum.2021.674119/full",
         "Wang, J., Joanisse, M., Booth, J.R.(2021). Letter fluency in 7-8-year-old children is related to the anterior, but not posterior, ventral occipito-temporal cortex during an auditory phonological task. Developmental Cognitive Neuroscience, 47, 100898. https://www.sciencedirect.com/science/article/pii/S187892932030147X"
     ],
@@ -28,5 +28,5 @@
         "James R. Booth"
     ],
     "Acknowledgements": "This project was supported by R01-DC013274 and BCS-1358794 from the National Institute of Deafness and other Communication Disorders (NIDCD) and the National Science Foundation (NSF) awarded to James R. Booth. We thank Jessica Church Lang, Emily Algert, Hannah Cweigenberg, Stephanie Herrin, Alyssa Lucio, Madeleine Reisgerzog, Christine Saenz, Macarena Suarez-Pellicioni & Jessica W. Younger for their help with data collection. We thank Neelima Wagley, Abigail Snow, Lilah Givens, Tyjah Johnson, and Julia Pines for their help with data curation. We thank Chris Thompson for his help with developing a code for data uploading. ",
-    "DatasetDOI": "doi:10.18112/openneuro.ds003604.v1.0.6"
+    "DatasetDOI": "doi:10.18112/openneuro.ds003604.v1.0.7"
 }
