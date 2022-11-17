@@ -1,0 +1,6 @@
+1.0.3 2021-10-02
+  - Added grade level for each session in the participants.tsv and participants.json; Corrected the linguistic characteristics (phonotactic probability) for the sound task in Stimuli/Stimulus_characteristics/task-Phon_stumulus_characteristics.tsv. 
+1.0.2 2021-04-26
+  - valid complete version
+1.0.1 2021-04-26
+  - complete version
